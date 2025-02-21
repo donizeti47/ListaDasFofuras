@@ -1,0 +1,20 @@
+{
+  "name": "listadasfofuras",
+  "version": "1.0.0",
+  "description": "Apenas para teste\r fgfdghdsfhd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donizeti47/ListaDasFofuras.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donizeti47/ListaDasFofuras/issues"
+  },
+  "homepage": "https://github.com/donizeti47/ListaDasFofuras#readme"
+}
